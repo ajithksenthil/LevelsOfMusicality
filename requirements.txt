@@ -1,0 +1,5 @@
+numpy
+librosa 
+soundfile 
+colorednoise
+pretty_midi
